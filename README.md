@@ -3,4 +3,4 @@ MATLAB implementation of Paper "Multi-Omic Data Integration for Statistically Si
 
 The main method is ``AWSL.m``.
 
-Run ``GBM_TEST.m``, ``BIC_TEST.m`` to get experimental results on GBM and BIC dataset, respectively.
+Run ``GBM_test.m``, ``BIC_test.m`` to get experimental results on GBM and BIC dataset, respectively.
